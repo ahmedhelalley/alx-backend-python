@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Defines zoom_array function."""
+"""Defines zoom_array function.."""
 
 from typing import Tuple, List
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Defines safely_get_value function."""
+"""Defines safely_get_value function.."""
 
 from typing import Mapping, Any, TypeVar, Union, Optional
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Defines safe_first_element function."""
+"""Defines safe_first_element function.."""
 
 from typing import Sequence, Any, Union
 
